@@ -1,4 +1,4 @@
 # Object-Oriented-Principles
-Learning java
+Working with Java
 
-src/oop/edu/ucalgary contains projects
+src/oop/edu/ucalgary contains projects 
