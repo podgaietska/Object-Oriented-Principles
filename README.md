@@ -1,8 +1,7 @@
 # Object-Oriented-Principles
 Working with Java
 
-Note:
-src/oop/edu/ucalgary contains projects 
+Note: folder [src/oop/edu/ucalgary](./src/oop/edu/ucalgary)
 
 ## Project Description
 **Project 1:** 
