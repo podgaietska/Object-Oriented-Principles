@@ -5,4 +5,5 @@ Note:
 src/oop/edu/ucalgary contains projects 
 
 ## Project Description
-**Project 1**
+**Project 1:** 
+**Project 2:**
