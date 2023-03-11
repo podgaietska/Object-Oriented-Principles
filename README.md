@@ -1,5 +1,5 @@
 # Object-Oriented-Principles
-Working with Java
+Learning oop programming with java
 
 Note: folder [src/oop/edu/ucalgary](./src/oop/edu/ucalgary) contains projects
 
